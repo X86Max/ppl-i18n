@@ -52,7 +52,7 @@ msgstr "Autenticando..."
 
 # screen_online_authenticate.cpp
 msgid "Error :("
-msgstr ""
+msgstr "Erro :("
 
 # screen_online_authenticate.cpp
 msgid "Failed to authenticate"
@@ -64,7 +64,7 @@ msgstr "Falha ao fazer contato com o servidor"
 
 # screen_online_authenticate.cpp
 msgid "Need the latest version of the game."
-msgstr ""
+msgstr "É necessário a ultima versão do jogo."
 
 # screen_specify_server_ip.cpp
 msgid "Connect"
@@ -332,23 +332,23 @@ msgstr "Entrar na sala"
 
 # screen_online_create_or_join_room.cpp
 msgid "Room is full"
-msgstr ""
+msgstr "A sala está cheia"
 
 # screen_online_create_or_join_room.cpp
 msgid "The room does not exist anymore"
-msgstr ""
+msgstr "A sala não existe mais"
 
 # screen_online_create_or_join_room.cpp
 msgid "The room expired"
-msgstr ""
+msgstr "A sala expirou"
 
 # screen_online_create_or_join_room.cpp
 msgid "Unknown error"
-msgstr ""
+msgstr "Erro desconhecido"
 
 # screen_online_create_or_join_room.cpp
 msgid "You are already in the room!"
-msgstr ""
+msgstr "Você já está na sala!"
 
 # screen_tutorial.cpp
 msgid "Tutorial"
@@ -872,4 +872,3 @@ msgstr "Esperando pelo servidor..."
 # Currently unused! This string may never be used again!
 msgid "You are already in the game!"
 msgstr "Você já está no jogo!"
-
